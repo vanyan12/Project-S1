@@ -1,3 +1,3 @@
 from Functions import *
 
-count_cars('./v2.mp4')
+count_cars('./vid.mp4')
