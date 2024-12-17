@@ -12,7 +12,7 @@ To install this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/username/repository-name.git](https://github.com/vanyan12/Project-S1.git)
+   git clone https://github.com/username/repository-name.git
    ```
 
 2. Install dependencies:
@@ -21,7 +21,7 @@ To install this project, follow these steps:
    ```
 ## Usage
 
-![How to use the function](assets/Function usage.png)
+![How to use the function](assets/usage.png)
 
 Import Functions.py file and call the `count_cars() ` function.
 
