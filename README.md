@@ -25,7 +25,7 @@ To install this project, follow these steps:
 
 Import Functions.py file and call the `count_cars() ` function.
 
-###Syntax: `count_cars(video_stream, interval_t)`
+### Syntax: `count_cars(video_stream, interval_t)`
 
 **Parameters**
 -`video_stream`: The path of the video.
