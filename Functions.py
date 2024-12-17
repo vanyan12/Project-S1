@@ -2,6 +2,7 @@ import math
 import numpy as np
 import cv2
 import time
+
 def detect_center(x, y, w, h):
     """Calculate the center of a rectangle."""
     x1 = int(w / 2)
